@@ -1,2 +1,2 @@
-# react-blog-1
+# Getting Started with Create React App
 ramaDev react blog project
